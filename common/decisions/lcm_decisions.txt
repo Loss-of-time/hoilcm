@@ -1,0 +1,14 @@
+Coralization_xyz = {
+    fast_fast_fast_build = {
+        icon = generic_research
+        days_remove = 3600
+        modifier = {
+            production_speed_buildings_factor = 20
+            industry_repair_factor = 20
+            political_power_gain = 5
+		}
+        available = {
+            is_ai = no
+        }
+    }
+}

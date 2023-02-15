@@ -1,0 +1,33 @@
+Coralization_xyz = {
+    Coralization_area_xyz = {
+		icon = decision_Coralization
+		available = {
+		}
+		cost = 35
+        days_remove = 30
+        state_target = yes
+		ai_will_do = {
+			factor = 0
+		}
+		visible = {
+            NOT = {
+				FROM = {
+					is_core_of = ROOT
+				}
+			}
+			FROM = {
+				is_fully_controlled_by = ROOT
+			}
+		}
+		modifier = {
+		}
+		remove_effect = {
+			FROM = {
+				add_core_of = ROOT
+			}
+		}
+		complete_effect = {
+			
+		}
+	}
+}

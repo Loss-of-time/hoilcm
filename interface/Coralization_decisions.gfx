@@ -1,0 +1,14 @@
+spriteTypes = {	
+
+	########
+	spriteType = {
+		name = "decision_Coralization"
+		texturefile = "gfx/interface/Coralization/decision_Coralization.PNG"
+	}
+
+	spriteType = {
+		name = "decision_Coralization_picture"
+		texturefile = "gfx/interface/Coralization/decision_Coralization_picture.dds"
+	}
+	
+}

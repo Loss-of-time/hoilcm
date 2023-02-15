@@ -1,0 +1,4 @@
+Coralization_xyz = {
+    icon = decision_Coralization
+    picture = decision_Coralization_picture
+}
