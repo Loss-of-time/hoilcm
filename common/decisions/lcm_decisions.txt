@@ -4,6 +4,7 @@ Coralization_xyz = {
         days_remove = 3600
         modifier = {
             production_speed_buildings_factor = 20
+            research_speed_factor = 10
             industry_repair_factor = 20
             political_power_gain = 5
 		}
