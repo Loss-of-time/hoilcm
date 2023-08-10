@@ -3,11 +3,37 @@ Coralization_xyz = {
         icon = generic_research
         days_remove = 3600
         modifier = {
-            production_speed_buildings_factor = 20
-            research_speed_factor = 10
-            industry_repair_factor = 20
-            political_power_gain = 5
+            production_speed_buildings_factor = 100
+            industry_repair_factor = 100
+            production_factory_start_efficiency_factor = 1
+            global_building_slots_factor = 3
 		}
+        available = {
+            is_ai = no
+        }
+    }
+
+    fast_reasearch = {
+        icon = generic_research
+        days_remove = 360
+        modifier = {
+            research_speed_factor = 10
+		}
+        available = {
+            is_ai = no
+        }
+    }
+
+    more_power = {
+        icon = generic_research
+        days_remove = 3600
+        modifier = {
+            political_power_gain = 10
+            COMMAND_POWER_GAIN = 10
+            experience_gain_army = 1
+            experience_gain_air = 1
+            experience_gain_navy = 1
+        }
         available = {
             is_ai = no
         }
