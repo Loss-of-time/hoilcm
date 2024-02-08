@@ -6,6 +6,7 @@ Coralization_xyz = {
             production_speed_buildings_factor = 100
             industry_repair_factor = 100
             production_factory_start_efficiency_factor = 1
+            production_factory_max_efficiency_factor = 2
             global_building_slots_factor = 3
 		}
         available = {
