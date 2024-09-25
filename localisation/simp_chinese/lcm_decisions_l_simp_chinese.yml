@@ -1,4 +1,6 @@
 ﻿l_simp_chinese:
-  fast_fast_fast_build:"更快更快更快更快"
-  fast_reasearch:"快速科研"
-  more_power:"无尽权力"
+  fast_fast_fast_build: "更快更快更快更快"
+  fast_reasearch: "快速科研"
+  more_power: "无尽权力"
+  TS_tech_steal: "技术窃取"
+  TS_tech_steal_desc: "执行技术窃取行动以获取对方的科技成果"
