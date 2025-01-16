@@ -1,14 +1,14 @@
 Coralization_xyz = {
     fast_fast_fast_build = {
         icon = generic_research
-        days_remove = 3600
+        days_remove = 30
         modifier = {
             production_speed_buildings_factor = 100
             industry_repair_factor = 100
             production_factory_start_efficiency_factor = 1
             production_factory_max_efficiency_factor = 2
             global_building_slots_factor = 3
-		}
+        }
         available = {
             is_ai = no
         }
@@ -16,10 +16,10 @@ Coralization_xyz = {
 
     fast_reasearch = {
         icon = generic_research
-        days_remove = 360
+        days_remove = 30
         modifier = {
             research_speed_factor = 10
-		}
+        }
         available = {
             is_ai = no
         }
